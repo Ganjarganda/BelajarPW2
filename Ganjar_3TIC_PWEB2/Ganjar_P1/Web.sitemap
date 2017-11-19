@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Pertemuan/Modul03/ImageButton.aspx" title="Image button"  description="">
+        <siteMapNode url="~/Pertemuan/Modul03/Calendar.aspx" title="Calendar"  description="" />
+        <siteMapNode url="~/Pertemuan/Modul03/MultiView.aspx" title="MultiView"  description="" />
+      <siteMapNode url="~/Pertemuan/Modul03/Panel.aspx" title="Panel"  description="" />
+      <siteMapNode url="~/Pertemuan/Modul03/Survey.aspx" title="Survey"  description="" />
+    </siteMapNode>
+</siteMap>

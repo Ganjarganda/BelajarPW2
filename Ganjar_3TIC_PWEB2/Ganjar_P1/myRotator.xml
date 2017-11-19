@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>~\Gambar\1.jpg</ImageUrl>
+    <NavigateUrl>~\Pertemuan\Modul04\CheckBox.aspx</NavigateUrl>
+    <AlternativeText>ini halaman checkbox</AlternativeText>
+    <Impressions>25</Impressions>
+    <Keyword>CheckBox</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~\Gambar\2.jpg</ImageUrl>
+    <NavigateUrl>~\Pertemuan\Modul03\Calendar.aspx</NavigateUrl>
+    <AlternativeText>ini halaman Calendar</AlternativeText>
+    <Impressions>25</Impressions>
+    <Keyword>Calendar</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~\Gambar\3.jpg</ImageUrl>
+    <NavigateUrl>~\Pertemuan\Modul03\Panel.aspx</NavigateUrl>
+    <AlternativeText>ini halaman Panel</AlternativeText>
+    <Impressions>25</Impressions>
+    <Keyword>Panel</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~\Gambar\4.jpg</ImageUrl>
+    <NavigateUrl>~\Pertemuan\Modul03\Survey.aspx</NavigateUrl>
+    <AlternativeText>ini halaman Survey</AlternativeText>
+    <Impressions>25</Impressions>
+    <Keyword>Survey</Keyword>
+  </Ad>
+</Advertisements>
